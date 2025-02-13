@@ -18,7 +18,7 @@ This project aims to detect fraudulent credit card transactions using machine le
 - Matplotlib
   
 ## Dataset
-The dataset used is the **Credit Card Fraud Detection** dataset, which contains anonymized transaction details with class labels indicating fraud (1) or non-fraud (0).The dataset is taken from the Kaggle website Refer to Kaggle Link: <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">Link</a> and it has a total of 2,84,807 transactions, out of which 492 are fraudulent. Since the dataset is highly imbalanced, so it needs to be handled before model building.
+The dataset used is the **Credit Card Fraud Detection** dataset, which contains anonymized transaction details with class labels indicating fraud (1) or non-fraud (0).The dataset is taken from the Kaggle website <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">Link</a> and it has a total of 2,84,807 transactions, out of which 492 are fraudulent. Since the dataset is highly imbalanced, so it needs to be handled before model building.
 
 ## Installation
 1. Clone the repository:
